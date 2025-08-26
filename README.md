@@ -4,7 +4,7 @@
 
 This project's goal was to modernize a residential network infrastructure to improve security, performance, and scalability, moving from a basic provider-supplied setup to an advanced solution with full control.
 
-![Network Diagram](diagrame.jpg)
+![Network Diagram](network.jpg)
 
 ## Implemented Solution
 
