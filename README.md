@@ -1,8 +1,10 @@
-# Secure Residential Network Architecture
+# Network Privacy & Control
 
 *Abr. 2025*
 
 This project's goal was to modernize a residential network infrastructure to improve security, performance, and scalability, moving from a basic provider-supplied setup to an advanced solution with full control.
+
+![Network Diagram](diagrame.jpg)
 
 ## Implemented Solution
 
@@ -21,7 +23,3 @@ This project's goal was to modernize a residential network infrastructure to imp
 *   **Granular Security and Control:** Full control over the network was achieved, with a substantial improvement in security and privacy through network segmentation and advanced DNS filtering.
 
 *   **Scalable Infrastructure:** The new network architecture was designed to allow for future expansion, with the capacity to adapt to new technologies (like Wi-Fi 7) and service needs.
-
-## Project Resources
-
-*   [View Network Architecture Diagram](network/red.png): Access a visual diagram of the network architecture.
