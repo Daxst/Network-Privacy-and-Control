@@ -13,6 +13,7 @@ This project's goal was to modernize a residential network infrastructure to imp
 *   **Mesh Network Deployment:** Two state-of-the-art network devices were installed to create a robust mesh network, ensuring optimal coverage throughout the home and overcoming physical barriers.
 
 *   **Proactive Segmentation and Security:** Multiple segmented networks (2.4/5 GHz, an isolated network for IoT) were created to improve security and performance. WPA3 was implemented, ports were closed to reduce the attack surface, and NextDNS was integrated for network-level DNS filtering (blocking ads, trackers, and malicious domains).
+For total control, NextDNS was integrated at the router level, which allowed for centralized DNS filtering for the entire network. This measure not only blocks ads and malware by default for all connected devices, but also offers a unified log of DNS traffic. Additionally, the future implementation of Tailscale was planned to offer secure remote access to homelab services without the need to open ports, thus mitigating a critical security risk
 
 *   **Homelab Isolation:** A dedicated and isolated network segment was established for the homelab environment, minimizing the risk of exposure and protecting the main network.
 
